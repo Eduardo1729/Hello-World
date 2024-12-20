@@ -1,2 +1,3 @@
-# Hello-World
- Fist-Version-Repository
+# Hello,  World!
+ Fist Git and GitHub Version Repository
+Repositório criado numa aula ao vivo
